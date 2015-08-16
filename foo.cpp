@@ -1,6 +1,6 @@
 // foo
 void foo(void) {
-  someMemeConfl();
+  solved();
 }
 
 //bar
